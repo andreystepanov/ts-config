@@ -1,0 +1,6 @@
+{
+  "extends": "./loose",
+  "compilerOptions": {
+    "noImplicitAny": true
+  }
+}

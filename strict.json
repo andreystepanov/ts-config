@@ -1,0 +1,9 @@
+{
+  "extends": "./explicit-any",
+  "compilerOptions": {
+    "strictNullChecks": true,
+    "strict": true,
+    "strictFunctionTypes": true,
+    "strictBindCallApply": true
+  }
+}

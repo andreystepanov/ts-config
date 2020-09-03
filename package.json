@@ -1,0 +1,11 @@
+{
+  "name": "@andrey.co/ts-config",
+  "version": "1.0.0",
+  "description": "My personal TypeScript configs",
+  "main": "index.json",
+  "author": "Andrey Stepanov <code@andrey.co>",
+  "license": "MIT",
+  "devDependencies": {
+    "np": "^6.5.0"
+  }
+}
