@@ -1,11 +1,23 @@
 {
   "$schema": "https://json.schemastore.org/tsconfig",
   "compilerOptions": {
+    "baseUrl": "./",
     "allowJs": true,
     "checkJs": true,
     "declaration": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "inlineSourceMap": true,
+    "resolveJsonModule": true,
     "emitDeclarationOnly": true,
-    "isolatedModules": true
+    "typeRoots": ["node_modules"],
+    "lib": [],
+    "outDir": "dist",
+    "target": "ES2017",
+    "module": "commonjs",
+    "removeComments": true,
+    "jsx": "react",
+    "forceConsistentCasingInFileNames": true
   },
   "include": ["src"]
 }
