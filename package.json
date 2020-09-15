@@ -1,6 +1,6 @@
 {
   "name": "@anst/ts-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "My personal TypeScript configs",
   "main": "index.json",
   "author": "Andrey Stepanov <code@andrey.co>",
