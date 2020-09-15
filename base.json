@@ -16,7 +16,7 @@
     "lib": [],
     "outDir": "dist",
     "target": "ESNext",
-    "module": "commonjs",
+    "module": "ESNext",
     "removeComments": true,
     "jsx": "react",
     "forceConsistentCasingInFileNames": true
